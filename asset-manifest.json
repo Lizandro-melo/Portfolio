@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36f36a81.css",
+    "main.js": "/static/js/main.a287a1fc.js",
+    "static/media/certUnisuam.png": "/static/media/certUnisuam.cefbb98ab0c65c2eaff7.png",
+    "static/media/projetoPokedex.png": "/static/media/projetoPokedex.3da877f4a30e8a6c3519.png",
+    "static/media/LogoPerfil.png": "/static/media/LogoPerfil.6c740bd861528cf9bda7.png",
+    "static/media/projetoQuality.png": "/static/media/projetoQuality.f97cdc6e76b7706b1d5a.png",
+    "static/media/ProjetoTelecall.png": "/static/media/ProjetoTelecall.3875b21923043ae53c33.png",
+    "static/media/projetoCalculadoraModerna.png": "/static/media/projetoCalculadoraModerna.7433cc83501627ffdc36.png",
+    "static/media/projetoCentralizarDiv.png": "/static/media/projetoCentralizarDiv.9b33dc56459a0b803594.png",
+    "static/media/iconGitLetras.png": "/static/media/iconGitLetras.6149aa5ccbc036755594.png",
+    "static/media/certAlura.png": "/static/media/certAlura.e8f82619aa489bccee75.png",
+    "index.html": "/index.html",
+    "main.36f36a81.css.map": "/static/css/main.36f36a81.css.map",
+    "main.a287a1fc.js.map": "/static/js/main.a287a1fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f36a81.css",
+    "static/js/main.a287a1fc.js"
+  ]
+}
